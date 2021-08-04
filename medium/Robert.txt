@@ -1,0 +1,14 @@
+
+Robert
+
+Oh, Robert, you can always handle everything!
+
+‍‍nc 07.cr.yp.toc.tf 10101
+
+root@ubuntu:~# nc 07.cr.yp.toc.tf 10101
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++   hi all, all cryptographers know that fast calculation is not easy! +
++   In each stage for given integer m, find number n such that:        +
++   carmichael_lambda(n) = m, e.g. carmichael_lambda(2021) = 966       +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+| send an integer n such that carmichael_lambda(n) = 106:
